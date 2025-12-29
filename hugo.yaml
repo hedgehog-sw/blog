@@ -1,0 +1,23 @@
+baseURL: 'https://hedgehog-sw.github.io/blog/'
+languageCode: 'en-us'
+title: "Hedgehog's Blooooog"
+theme: "PaperMod"
+
+params:
+  homeInfoParams:
+    Title: "ฅ●ω●ฅ"
+    Content: "c'est un roseau pensant"
+
+  socialIcons: 
+    - name: "github"
+      url: "https://github.com/hedgehog-sw"
+
+  assets:
+    disableFingerprinting: true
+    favicon: "/favicon.svg"
+    
+menu:
+  main:
+    - name: "About"      
+      url: "/about"  
+      weight: 10

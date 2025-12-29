@@ -1,0 +1,20 @@
+.post-content p {
+    text-indent: 2em; 
+    margin-bottom: 1em; 
+}
+
+.post-content {
+    font-size: 16px;        
+    line-height: 1.8;      
+}
+
+.post-entry {
+    border: 1px solid #303030;   
+    border-radius: 10px;     
+    padding: 10px;           
+}
+
+
+.post-entry:hover {
+    border-color: #9e9d9b;    
+}
