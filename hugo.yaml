@@ -3,9 +3,9 @@ languageCode: 'en-us'
 title: "Hedgehog's Blooooog"
 theme: "PaperMod"
 
-author: "Hedgehog"
-
 params:
+  author: "Hedgehog"
+
   homeInfoParams:
     Title: "ฅ●ω●ฅ"
     Content: "c'est un roseau pensant"
