@@ -3,6 +3,8 @@ languageCode: 'en-us'
 title: "Hedgehog's Blooooog"
 theme: "PaperMod"
 
+author: "Hedgehog"
+
 params:
   homeInfoParams:
     Title: "ฅ●ω●ฅ"
