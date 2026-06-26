@@ -1,20 +1,10 @@
 .post-content p {
-    text-indent: 2em; 
     margin-bottom: 1em; 
 }
 
 .post-content {
     font-size: 16px;        
     line-height: 1.8;      
-}
-
-.post-content ul {
-    padding-left: 1.2em; 
-    margin-left: 0;
-}
-
-.post-content li {
-    text-indent: 0;
 }
 
 .post-entry {
